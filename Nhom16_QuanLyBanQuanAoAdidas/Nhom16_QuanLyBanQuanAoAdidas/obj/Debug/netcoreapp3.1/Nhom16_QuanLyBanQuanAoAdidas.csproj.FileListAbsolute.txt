@@ -1,0 +1,446 @@
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csprojAssemblyReference.cache
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\21_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.AssemblyReference.cache
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+D:\BT\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csprojAssemblyReference.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmPhieuDatHangNCC.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDanhSachPhieuDat.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuDatHang.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csprojAssemblyReference.cache
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuDatHang.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDanhSachPhieuDat.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmPhieuDatHangNCC.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+C:\Subject\LaptrinhWindow\BTL\28_8\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csprojAssemblyReference.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuDatHang.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDanhSachPhieuDat.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmPhieuDatHangNCC.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TÚ ANH\LTW\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.AssemblyReference.cache
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoNhap.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoXuat.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuDatHang.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDanhSachPhieuDat.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmPhieuDatHangNCC.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.exe
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.deps.json
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.json
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.runtimeconfig.dev.json
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CopyComplete
+D:\TN\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.genruntimeconfig.cache
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.AssemblyReference.cache
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Form1.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoNhap.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmBaoCaoXuat.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuDatHang.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuLap2.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuNhap.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmChiTietPhieuSua.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDangNhap.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDanhSachPhieuDat.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuNhap.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmDSPhieuSua.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmLapPhieuNhap.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmPhieuDatHangNCC.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyNCC.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLySanPham.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmQuanLyTaiKhoan.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmSuaHang.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.frmTrangChu.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.Properties.Resources.resources
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.GenerateResource.cache
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfoInputs.cache
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.AssemblyInfo.cs
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.csproj.CoreCompileInputs.cache
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.dll
+D:\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\Nhom16_QuanLyBanQuanAoAdidas\obj\Debug\netcoreapp3.1\Nhom16_QuanLyBanQuanAoAdidas.pdb
